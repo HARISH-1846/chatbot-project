@@ -11,4 +11,4 @@ Hi, I’m Harish A 👋
 - 💡 Passionate about web development & AI  
 - 🌱 Currently learning JavaScript & AI integrations  
 - 🚀 Looking to collaborate on web + AI projects  
--
+
